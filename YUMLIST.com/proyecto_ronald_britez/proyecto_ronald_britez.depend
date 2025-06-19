@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1750250407 source:/home/rb16/Descargas/YUMLIST.com/proyecto_ronald_britez/main.c
+	<stdio.h>
+
+1750250961 source:/home/rb16/Descargas/YUMLIST.com/proyecto_ronald_britez/main1.c
+	<stdio.h>
+	<unistd.h>
+

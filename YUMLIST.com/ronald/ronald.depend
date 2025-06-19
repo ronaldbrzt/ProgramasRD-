@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1750251097 source:/home/rb16/Descargas/YUMLIST.com/ronald/main.c
+	<stdio.h>
+	<stdlib.h>
+
